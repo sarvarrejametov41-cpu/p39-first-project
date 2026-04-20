@@ -1,5 +1,8 @@
 print('hello world')
 
+print(2 + 2)
+
+
 """
 git init
 git add .
