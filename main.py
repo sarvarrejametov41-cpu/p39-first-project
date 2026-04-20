@@ -4,6 +4,10 @@ print(2 + 2)
 
 print("solom")
 
+
+s = int(input("ismingizni kiriting"))
+print(s)
+
 """
 git init
 git add .
